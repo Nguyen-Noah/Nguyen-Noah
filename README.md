@@ -1,4 +1,4 @@
-### Hi there 👋
+![Background](https://github.com/Nguyen-Noah/Nguyen-Noah/assets/112649680/f5d2296f-0508-400c-abcf-47c085708a2a)
 
 <!--
 **Nguyen-Noah/Nguyen-Noah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
