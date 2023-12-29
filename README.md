@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.2%20thousand%20lines%20of%20code-blue)
 
@@ -13,7 +13,7 @@
  > 
 > 🏆 116 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
@@ -80,7 +80,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nguyen-Noah/Nguyen-Noah/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 06:33:31 UTC
+ Last Updated on 29/12/2023 06:35:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
