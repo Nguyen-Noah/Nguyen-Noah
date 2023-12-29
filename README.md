@@ -1,5 +1,9 @@
 ![Background](https://github.com/Nguyen-Noah/Nguyen-Noah/assets/112649680/f5d2296f-0508-400c-abcf-47c085708a2a)
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+### My GitHub Stats
+---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2050%20mins-blue)
 
