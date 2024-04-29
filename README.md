@@ -50,16 +50,17 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   33 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Isometric                33 mins             █████████████████████████   98.26 % 
+Tower Defense            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +75,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2024 18:35:32 UTC
+ Last Updated on 29/04/2024 18:36:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
