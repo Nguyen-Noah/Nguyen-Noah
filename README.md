@@ -13,7 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 200.5 kB Used in GitHub's Storage 
+> 📦 200.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 85 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -48,16 +50,16 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Tower Defense            7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +74,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2024 18:36:37 UTC
+ Last Updated on 28/05/2024 18:37:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
