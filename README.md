@@ -15,6 +15,8 @@
 
 > 📦 200.6 kB Used in GitHub's Storage 
  > 
+> 🏆 94 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -48,17 +50,16 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Python                   12 mins             ████████████████░░░░░░░░░   64.64 % 
-GLSL                     6 mins              █████████░░░░░░░░░░░░░░░░   35.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shaders                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +74,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2024 18:36:29 UTC
+ Last Updated on 30/06/2024 18:37:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
