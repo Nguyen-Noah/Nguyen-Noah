@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.5%20thousand%20lines%20of%20code-blue)
 
@@ -48,16 +48,25 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 12 mins       ████████████████████░░░░░   79.96 % 
+Python                   43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs               █████████████████████████   99.92 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mie-form-builder         3 hrs 16 mins       ████████████████████░░░░░   81.44 % 
+AnthisTeamRocket2020     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+platformer               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Chrono                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+wave function collapse   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +81,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 18:40:30 UTC
+ Last Updated on 13/07/2024 18:36:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
