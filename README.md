@@ -5,7 +5,7 @@
 ### My GitHub Stats
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,9 +15,11 @@
 
 > 📦 200.6 kB Used in GitHub's Storage 
  > 
+> 🏆 95 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -48,17 +50,19 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-JavaScript               3 mins              ██████████████████░░░░░░░   71.03 % 
-JSON                     1 min               ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+JavaScript               2 hrs 33 mins       ████████████████████████░   95.40 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mie-form-builder         4 mins              █████████████████████████   100.00 % 
+mie-form-builder         2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +77,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2024 18:39:34 UTC
+ Last Updated on 15/08/2024 18:40:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
