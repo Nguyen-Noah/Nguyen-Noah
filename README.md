@@ -15,8 +15,6 @@
 
 > 📦 200.6 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -50,18 +48,16 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-JavaScript               2 hrs 29 mins       ████████████████████████░   96.10 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mie-form-builder         2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +72,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2024 18:40:05 UTC
+ Last Updated on 22/08/2024 18:39:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
