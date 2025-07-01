@@ -5,8 +5,6 @@
 ### My GitHub Stats
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
@@ -14,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 344.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 114 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,18 +48,16 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Kotlin                   28 mins             ████████████████████░░░░░   79.86 % 
-GLSL shader              7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Rune3D                   36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +73,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 18:50:37 UTC
+ Last Updated on 01/07/2025 18:49:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
