@@ -5,6 +5,8 @@
 ### My GitHub Stats
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
@@ -46,16 +48,21 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   15 mins             ████████████████████░░░░░   79.20 % 
+Kotlin                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+GLSL shader              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  15 mins             ████████████████████░░░░░   79.20 % 
+IntelliJ IDEA            4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+game                     10 mins             ██████████████░░░░░░░░░░░   54.81 % 
+Unknown Project          4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Rune3D                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +78,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 18:43:53 UTC
+ Last Updated on 31/08/2025 18:44:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
