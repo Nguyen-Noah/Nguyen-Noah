@@ -50,16 +50,17 @@ Sunday                   156 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   6 mins              █████████████████████████   99.44 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Rune3D                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +76,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 18:47:16 UTC
+ Last Updated on 14/12/2025 18:49:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
