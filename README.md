@@ -50,18 +50,16 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-GLSL shader              1 hr 23 mins        █████████████████████████   98.58 % 
-Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Rune3D                   1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +75,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2026 19:28:03 UTC
+ Last Updated on 25/04/2026 19:25:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
