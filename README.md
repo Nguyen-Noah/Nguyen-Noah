@@ -5,6 +5,10 @@
 ### My GitHub Stats
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2015%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.69%20million%20lines%20of%20code-blue?style=flat)
@@ -79,7 +83,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:00:14 UTC
+ Last Updated on 29/07/2026 19:52:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
