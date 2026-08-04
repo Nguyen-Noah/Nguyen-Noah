@@ -52,20 +52,20 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Markdown                 37 mins             █████████░░░░░░░░░░░░░░░░   37.73 % 
-JavaScript               31 mins             ████████░░░░░░░░░░░░░░░░░   31.68 % 
-YAML                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Markdown                 54 mins             ███████████░░░░░░░░░░░░░░   44.08 % 
+JavaScript               31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+YAML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otel-sandbox             1 hr 39 mins        █████████████████████████   100.00 % 
+otel-sandbox             2 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:43:02 UTC
+ Last Updated on 04/08/2026 20:08:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
