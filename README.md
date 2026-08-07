@@ -5,6 +5,10 @@
 ### My GitHub Stats
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.69%20million%20lines%20of%20code-blue?style=flat)
@@ -48,20 +52,20 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Markdown                 17 mins             ██████████████░░░░░░░░░░░   54.03 % 
-YAML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Markdown                 17 mins             ██████████████████░░░░░░░   70.22 % 
+Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otel-sandbox             31 mins             █████████████████████████   100.00 % 
+otel-sandbox             24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:22:57 UTC
+ Last Updated on 07/08/2026 19:28:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
