@@ -52,20 +52,16 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-Markdown                 17 mins             ██████████████████░░░░░░░   70.22 % 
-Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-otel-sandbox             24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +83,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:30:24 UTC
+ Last Updated on 12/08/2026 19:36:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
