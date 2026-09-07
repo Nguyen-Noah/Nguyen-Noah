@@ -52,16 +52,20 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   15 mins             █████████████████████████   99.94 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Tower Defense            14 mins             ██████████████████████░░░   89.26 % 
+Clover Cafe              1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:38:16 UTC
+ Last Updated on 07/09/2026 21:42:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
